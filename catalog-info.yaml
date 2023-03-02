@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: <Roadie>
+  name: Roadie
   title: Sample Service # optional, human readable component name
   description: My first Backstage catalog item.
   annotations:
-    github.com/project-slug: <chan7762>/<Roadie>
+    github.com/project-slug: chan7762/Roadie
 spec:
   type: service
-  owner: user:<callipuram@costco.com>
+  owner: user:callipuram@costco.com
   lifecycle: experimental
