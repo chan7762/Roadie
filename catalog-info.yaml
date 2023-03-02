@@ -4,8 +4,6 @@ metadata:
   name: Roadie
   title: Sample Service # optional, human readable component name
   description: My first Backstage catalog item.
-  annotations:
-    github.com/project-slug: chan7762/Roadie
 spec:
   type: service
   owner: user:callipuram@costco.com
